@@ -106,10 +106,6 @@ I'm a **Software Developer** from **New Yundum, The Gambia**, passionate about b
 
 ## 🏆 Achievements & Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maha-2ray&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
 - 🛡️ **IBM SkillsBuild Cybersecurity Project Capstone (2024)** - Certified in cybersecurity fundamentals and practices
 
 <!-- Add more certifications here -->
@@ -163,10 +159,6 @@ I'm passionate about contributing to open source projects and collaborating with
 6. **Customize theme:** Change the theme of GitHub stats cards by replacing `radical` with other themes like `dark`, `dracula`, `tokyonight`, etc.
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/maha-2ray?label=Follow&style=social" alt="GitHub Followers"/>
-</p>
 
 <p align="center">
   ✨ <em>"I believe in using technology to solve real-world problems, and I'm always open to collaboration and learning opportunities."</em> ✨
