@@ -33,9 +33,15 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true&mode=daily)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical)  
+
+---
+
+### 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maha-2ray&theme=radical)
 
 ---
 
