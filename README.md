@@ -31,11 +31,28 @@
 
 ## 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maha-2ray&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical)  
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=maha-2ray&color=red&style=flat-square)
 
 ---
 
