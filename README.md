@@ -33,7 +33,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical)  
 
