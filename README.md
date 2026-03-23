@@ -1,69 +1,101 @@
-# Hi there 👋, I'm Muhammed Touray 
+# 👋 Hi, I'm Muhammed Touray  
 
-🎓 I’m a **Software Developer** from The Gambia, passionate about building impactful technology solutions.  
-💻 My interests span across **cybersecurity, web development, and software development**, with growing experience in **React Native** and **system security**.  
-🎨 I also enjoy **graphic design** and bringing creativity into my technical projects.  
+💻 **Software Developer | Cybersecurity Enthusiast | UI/UX Creative**  
 
----
-
-## 🚀 What I Do  
-- 🛡️ Explore and practice **cybersecurity**, certified through the **IBM SkillsBuild Cybersecurity Project Capstone (2024)**  
-- 🌐 Build and experiment with **web and mobile apps** (React, React Native, Node.js)  
-- 🧩 Work on **problem-solving, algorithms, and system design** (OOAD, Data Structures & Operating Systems)  
-- 📚 Always learning and improving my skills in **software engineering and development best practices**  
+I build secure, scalable, and user-focused applications across web and mobile platforms.  
+With hands-on experience in **private/company repositories**, I’ve contributed to real-world systems beyond what public GitHub stats may show.  
 
 ---
 
-## ⚡ Skills & Tools  
-- **Programming:** JavaScript, Java, C#
-- **Web Development:** HTML, CSS, React, Angular, Node.js  
-- **Mobile Development:** React Native  
-- **Other:** Git/GitHub, Graphic Design  
+## 🚀 About Me  
+
+- 💼 Contributed to **production-level applications** in private repositories  
+- 🛡️ Strong focus on **cybersecurity & secure software design**  
+- 🌐 Build modern **web & mobile applications** using React & React Native  
+- 🎨 Combine **development + design** to create intuitive user experiences  
+- 📈 Continuously improving in **system design, backend engineering, and scalability**  
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **web development** and backend systems  
-- **Mobile app development** with React Native  
-- Deepening my knowledge in **cybersecurity and ethical hacking**  
+## 🔥 What Sets Me Apart  
+
+- 🧑‍💻 Real-world development experience beyond public projects  
+- 🔐 Security-first mindset when building applications  
+- ⚡ Strong foundation in **data structures, OOP, and system-level thinking**  
+- 🎯 Ability to bridge **technical implementation with design thinking**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+`JavaScript` `TypeScript` `Java` `C#`  
+
+### 🌐 Web & Backend  
+`React` `Angular` `Node.js` `Spring Boot`  
+
+### 📱 Mobile  
+`React Native`  
+
+### 🗄️ Database & DevOps  
+`MySQL` `Docker`  
+
+### ⚙️ Tools & Environment  
+`Git` `GitHub` `Linux`  
+
+### 🎨 Design  
+`Graphic Design` `UI/UX Principles`  
+
+---
+
+## 🚀 Featured Work  
+
+- 🔐 **Authentication Systems** — Secure login & JWT-based authorization  
+- 📱 **Cross-Platform Mobile Apps** — Built with React Native & API integrations  
+- 🌐 **Full-Stack Web Apps** — Modern frontend + backend architectures  
+- ⚙️ **System-Level Projects** — Applying OS concepts, OOP, and performance optimization  
+
+---
+
+## 🌱 Currently Leveling Up  
+
+- Advanced **backend development & system architecture**  
+- **Cybersecurity & ethical hacking practices**  
+- Scalable **mobile app development**  
+- Clean code, testing, and **engineering best practices**  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+> ⚠️ Most of my contributions are in private/company repositories, so public stats may not fully reflect my experience.  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true&mode=daily)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical&count_private=true)
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maha-2ray&theme=radical)
 
 ---
 
-### 🛠️ Tech Stack
+## 🤝 Let’s Connect  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+- 📧 Email: **touraymuhammed2000@gmail.com**  
+- 💼 LinkedIn: *(add your link here)*  
+- 🌐 Portfolio: *(add if you have one)*  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=maha-2ray&color=red&style=flat-square)
+## 💡 Philosophy  
+
+> *I believe great software is not just functional — it’s secure, scalable, and designed with the user in mind.*  
 
 ---
 
-## 📫 Get in Touch  
-- 📧 Email: *touraymuhammed2000@gmail.com*  
----
-
-✨ *I believe in using technology to solve real-world problems, and I’m always open to collaboration and learning opportunities.*  
+⭐ *Open to collaboration, opportunities, and building impactful technology.*
