@@ -70,7 +70,7 @@ With hands-on experience in **private/company repositories**, I’ve contributed
 
 > ⚠️ Most of my contributions are in private/company repositories, so public stats may not fully reflect my experience.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true)
 
@@ -88,7 +88,7 @@ With hands-on experience in **private/company repositories**, I’ve contributed
 
 - 📧 Email: **touraymuhammed2000@gmail.com**  
 - 💼 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *(add if you have one)*  
+- 🌐 Portfolio: *https://mahatech-portfolio.vercel.app*  
 
 ---
 
