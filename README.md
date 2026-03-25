@@ -71,11 +71,11 @@ With hands-on experience in **private/company repositories**, I’ve contributed
 
 > ⚠️ Most of my contributions are in private/company repositories, so public stats may not fully reflect my experience.  
 
-![GitHub Stats](github-readme-stats-five-beta-56.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-five-beta-56.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-five-beta-56.vercel.app/api/top-langs/?username=maha-2ray&layout=compact&theme=radical&count_private=true)
 
 ---
 
