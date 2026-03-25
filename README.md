@@ -32,8 +32,9 @@ With hands-on experience in **private/company repositories**, I’ve contributed
 `JavaScript` `TypeScript` `Java` `C#`  
 
 ### 🌐 Web & Backend  
-`React` `Angular` `Node.js` `Spring Boot`  
-
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ### 📱 Mobile  
 `React Native`  
 
@@ -70,7 +71,7 @@ With hands-on experience in **private/company repositories**, I’ve contributed
 
 > ⚠️ Most of my contributions are in private/company repositories, so public stats may not fully reflect my experience.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](github-readme-stats-five-beta-56.vercel.app/api?username=maha-2ray&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maha-2ray&theme=radical&hide_border=true)
 
@@ -87,8 +88,8 @@ With hands-on experience in **private/company repositories**, I’ve contributed
 ## 🤝 Let’s Connect  
 
 - 📧 Email: **touraymuhammed2000@gmail.com**  
-- 💼 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *https://mahatech-portfolio.vercel.app*  
+- 💼 LinkedIn: [Muhammed Touray](https://linkedin.com/in/muhammed-l-touray) 
+- 🌐 Portfolio: [My Website](https://mahatech-portfolio.vercel.app)
 
 ---
 
